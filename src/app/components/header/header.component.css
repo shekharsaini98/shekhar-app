@@ -21,25 +21,25 @@
 /* navbar buttons */
 .requestdemo{
     color:white;
-    background-color: #47B474;
+    background-color: orange;
     font-weight:bold;
     border-radius: 5px;
     font-size:12px;
     margin-right:10px;
-    border:1px solid #47B474;
+    border:1px solid orange;
 }
 .login{
-    color:#47B474;
+    color:orange;
     font-weight:bold;
     border-radius: 5px;
     font-size:12px;
     margin-right:10px;
-    border:1px solid #47B474;
+    border:1px solid orange;
     -webkit-transition: 0.5s;
     transition: 0.5s;
 }
 .login:hover{
-    background-color:#47B474;
+    background-color:orange;
     color:white;
     -webkit-transition: 0.5s;
     transition: 0.5s;
